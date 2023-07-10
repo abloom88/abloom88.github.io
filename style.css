@@ -1,1 +1,11 @@
-
+body {background-color: AliceBlue;
+  }
+h1 {font-family: Times New Roman;
+}
+h3{font-family: Ariel;
+  }
+.exp-header {
+  border-top: 2px solid Black;
+  border-bottom: 2px solid Black;
+  
+}
